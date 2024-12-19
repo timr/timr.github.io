@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Holidays"
+date:   2024-12-19 15:00:00 -0500
+categories: website
+---
+
+Ho ho ho! I've messed up my DNS for this site. Github doesn't like me
+having Cloudflare proxying traffic to it. It should be working shortly.
